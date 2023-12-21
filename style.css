@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.blue {
+    background-color: blue;
+    width: 900px; height: 600px;
+    border: 3px solid black;
+    position: relative;
+    
+    
+}
+.white {
+    background-color: white;
+    width: 900px; height: 66px;
+    position: absolute;
+    top: 466px;
+}
+.white1 {
+    background-color: white;
+    width: 900px; height: 66px;
+    position: absolute;
+    top: 325px;
+}
+.white2 {
+    background-color: white;
+    width: 66px; height: 380px;
+    position: absolute;
+    left: 130px;
+}
+.white3 {
+    background-color: white;
+    position: absolute;
+    width: 339px; height: 66px;
+    top: 125px; right: 561px;
+    left: 1px;
+}
+.white4 {
+    background-color: white;
+    position: absolute;
+    width: 560px; height: 66px;
+    left: 340px; top: 59px;
+}
+.white5 {
+    background-color: white;
+    position: absolute;
+    width: 560px; height: 66px;
+    left: 340px; top: 191px;
+
+}
